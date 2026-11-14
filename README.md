@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Yoga%20370%20Hackintosh&fontSize=52&fontColor=ffffff&desc=macOS%2015.8.3%20%C2%B7%20OpenCore%20%C2%B7%20Kaby%20Lake&descAlignY=72&descSize=16" alt="Yoga 370 Hackintosh" width="100%">
+  <img src="assets/banner.svg" alt="Yoga 370 Hackintosh" width="100%">
 </p>
 
 <p align="center">
