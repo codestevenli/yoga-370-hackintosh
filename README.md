@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Yoga%20370%20Hackintosh&fontSize=52&fontColor=ffffff&desc=macOS%2015.8.3%20%C2%B7%20OpenCore%20%C2%B7%20Kaby%20Lake&descAlignY=72&descSize=16" alt="Yoga 370 Hackintosh" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-15.8.3%20(24H241)-0A84FF" alt="macOS 15.8.3">
+  <img src="https://img.shields.io/badge/bootloader-OpenCore-4B8BBE" alt="OpenCore">
+  <img src="https://img.shields.io/badge/laptop-ThinkPad%20Yoga%20370-E2231A" alt="ThinkPad Yoga 370">
+  <img src="https://img.shields.io/badge/status-working-brightgreen" alt="working">
+  <img src="https://img.shields.io/badge/EFI-included-blueviolet" alt="EFI included">
+</p>
+
 # ThinkPad Yoga 370 安装 macOS 15 Sequoia（OpenCore）
 
 > **备注：这台的机型标识是 `MacBookPro14,1`，但那只是 OpenCore 的 SMBIOS 伪造。机器实际是 Lenovo ThinkPad Yoga 370**（Kaby Lake，i5-7300U），不是真的 MacBook Pro。第一次看 `system_profiler` / `sw_vers` 的人很容易被这个标识误导。
